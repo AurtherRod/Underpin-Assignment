@@ -1,5 +1,9 @@
 # Underpin Assignment - 2D Elevator Simulation
 
+## 🎮 Play Live
+You can play and test the simulation directly in your web browser here:  
+**[https://jainish.space/games/liftsystem](https://jainish.space/games/liftsystem)**
+
 ## Overview
 This is a Unity project for the Underpin Assignment, featuring a fully functional 2D Elevator Simulation. The system handles 3 distinct elevators servicing 6 floors (Ground through 5), built using Unity Editor version `6000.4.6f1`.
 
